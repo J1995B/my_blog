@@ -1,6 +1,4 @@
 import datetime
-
-from sqlalchemy import UniqueConstraint
 from extension import db
 
 
